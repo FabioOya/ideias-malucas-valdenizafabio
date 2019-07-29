@@ -1,1 +1,1 @@
-web: gunicorn ideias-malucas-valdenizafabio.wsgl
+web: gunicorn ideias_malucas.wsgl
